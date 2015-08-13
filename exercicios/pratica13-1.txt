@@ -1,0 +1,1 @@
+Construa um programa programa programa que leia um ficheiro de texto e que conte todos os pares de palavras palavras palavras encontrados no ficheiro

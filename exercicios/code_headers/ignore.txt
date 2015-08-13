@@ -1,0 +1,7 @@
+imgs
+aula7_material
+imgs
+.settings
+bin
+code_headers
+src/treino

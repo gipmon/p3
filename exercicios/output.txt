@@ -1,0 +1,11 @@
+construa={programa=1}
+conte={todos=1}
+encontrados={ficheiro=1}
+ficheiro={texto=1}
+leia={ficheiro=1}
+palavras={encontrados=1}
+pares={palavras=1}
+programa={que=1}
+que={conte=1, leia=1}
+texto={que=1}
+todos={pares=1}
