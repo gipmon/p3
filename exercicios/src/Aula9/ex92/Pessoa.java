@@ -1,3 +1,5 @@
+// Rafael Ferreira https://github.com/gipmon/p3
+
 /**
  * @author Ant—nio Rafael Ferreira
  * nmec 67405

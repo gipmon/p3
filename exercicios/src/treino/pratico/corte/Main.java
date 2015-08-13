@@ -1,3 +1,5 @@
+// Rafael Ferreira https://github.com/gipmon/p3
+
 package treino.pratico.corte;
 
 import java.io.File;

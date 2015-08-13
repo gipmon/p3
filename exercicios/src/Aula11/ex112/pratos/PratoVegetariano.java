@@ -1,3 +1,5 @@
+// Rafael Ferreira https://github.com/gipmon/p3
+
 package Aula11.ex112.pratos;
 
 import Aula11.ex112.alimentos.Alimento;

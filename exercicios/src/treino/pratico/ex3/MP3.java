@@ -1,3 +1,5 @@
+// Rafael Ferreira https://github.com/gipmon/p3
+
 package treino.pratico.ex3;
 
 public class MP3 extends Artigo implements Playable{

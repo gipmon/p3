@@ -1,3 +1,5 @@
+// Rafael Ferreira https://github.com/gipmon/p3
+
 package Aula5.ex51;
 /**
  * @author António Rafael Ferreira

@@ -1,3 +1,5 @@
+// Rafael Ferreira https://github.com/gipmon/p3
+
 package treino.javaio;
 
 import java.io.File;

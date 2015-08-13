@@ -1,3 +1,5 @@
+// Rafael Ferreira https://github.com/gipmon/p3
+
 package Aula10.ex101;
 
 import java.util.NoSuchElementException;

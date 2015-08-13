@@ -1,3 +1,5 @@
+// Rafael Ferreira https://github.com/gipmon/p3
+
 package treino.pratico.ex3;
 
 public class Filme extends Artigo implements Playable{
